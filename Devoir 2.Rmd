@@ -1,0 +1,17 @@
+---
+title: "Devoir2"
+author: "Dr Fousseyni KANE"
+date: "28/10/2021"
+output: pdf_document
+---
+
+Ecrire et tester la fonction myproject, permettant de créer cet arborescence en utilisant les fonctions dir.create() et file.path() et sapply() sans que votre programme n’écrase les dossiers déjà créés. L’appel de cette fonction est présenté comme suit :
+
+```{r}
+myproject <- function(mainpath, undermainpath, thirdaccess){
+  
+}
+
+
+
+```
